@@ -39,14 +39,14 @@ Hi, I'm Tsanfer, a carbon-based life now living on the arm of Orion
 ![Codecov](http://img.shields.io/badge/-Codecov-F01F7A?style=flat-square&logo=Codecov&logoColor=white)
 ![CodeFactor](http://img.shields.io/badge/-CodeFactor-F44A6A?style=flat-square&logo=CodeFactor&logoColor=white)
 
-![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true&hide_border=true)
+![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true)
 
 ## 📫 Reach me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&link=https://github.com/Tsanfer/)](https://github.com/Tsanfer/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/a1124851454)](https://twitter.com/a1124851454)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1124851454@gmail.com)](mailto:a1124851454@gmail.com)
-[![BiliBIili](https://img.shields.io/badge/-BiliBIili-00A0D8?style=flat-square&link=https://space.bilibili.com/12167681)](https://space.bilibili.com/12167681)
+[![BiliBili](https://img.shields.io/badge/-BiliBili-00A0D8?style=flat-square&link=https://space.bilibili.com/12167681)](https://space.bilibili.com/12167681)
 [![NetEase Music](https://img.shields.io/badge/-NetEase%20Music-E20000?style=flat-square&https://music.163.com/#/user/home?id=69696518)](https://music.163.com/#/user/home?id=69696518)
 
 > ⭐ From [Tsanfer](https://github.com/Tsanfer)
