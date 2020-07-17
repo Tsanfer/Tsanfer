@@ -1,8 +1,8 @@
 ### Hi there, I'm Tsanfer 👋
 
+![Twitter](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Tsanfer/)
 
 **Tsanfer/Tsanfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fa1124851454)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
