@@ -1,6 +1,6 @@
 # Hi there, I'm Tsanfer 👋👾
 
-Hi, I'm Tsanfer, a carbon-based life now living on the arm of Orion
+Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
