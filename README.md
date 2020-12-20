@@ -39,7 +39,7 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm
 ![Codecov](http://img.shields.io/badge/-Codecov-F01F7A?style=flat-square&logo=Codecov&logoColor=white)
 ![CodeFactor](http://img.shields.io/badge/-CodeFactor-F44A6A?style=flat-square&logo=CodeFactor&logoColor=white)
 
-![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true)
+![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true&theme=tokyonight)
 
 ## 📫 Reach me
 
