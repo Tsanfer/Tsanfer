@@ -1,6 +1,8 @@
 # Hi there, I'm Tsanfer 👋👾
 
-Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm
+![](https://komarev.com/ghpvc/?username=Tsanfer&style=flat-square)
+
+Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
