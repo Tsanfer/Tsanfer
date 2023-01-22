@@ -13,14 +13,13 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 
 ## 🌐 Programming Languages
 
-💻 Know/Using
+**💻 Know/Using**
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua)
 
-🌱 Learning
+**🌱 Learning**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -28,10 +27,11 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![x86 Asm](https://img.shields.io/badge/-x86%20Asm-black?style=flat-square)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua)
 
 ## 🛠️ Tools
 
-💻 Know/Using
+**💻 Know/Using**
 
 ![Airtest](https://img.shields.io/badge/-Airtest-f28427?style=flat-square)
 ![Cheat Engine](https://img.shields.io/badge/-Cheat%20Engine-016295?style=flat-square)
@@ -41,7 +41,7 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-🌱 Learning
+**🌱 Learning**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
