@@ -37,6 +37,8 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 ![x86 Asm](https://img.shields.io/badge/-x86%20Asm-black?style=flat-square)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua)
 
+![Tsanfer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsanfer&layout=compact&hide=C,C%2B%2B,Makefile,Assembly)
+
 ## 🛠️ Tools
 
 **💻 Know/Using**
@@ -48,7 +50,6 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-![Tsanfer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsanfer&layout=compact&hide=C,C%2B%2B,Makefile,Assembly)
 <!--  ![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true&theme=tokyonight) -->
 
 ## 📫 Reach me
