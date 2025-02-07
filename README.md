@@ -49,8 +49,7 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 
 **🌱 Learning**
 
-
-![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true&theme=tokyonight)
+<!-- ![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true&theme=tokyonight) -->
 
 ## 📫 Reach me
 
