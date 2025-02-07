@@ -10,6 +10,8 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Tsanfer&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
+
+
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -46,8 +48,7 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-**🌱 Learning**
-
+![Tsanfer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsanfer&layout=compact&hide=C,C%2B%2B,Makefile,Assembly)
 <!--  ![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true&theme=tokyonight) -->
 
 ## 📫 Reach me
