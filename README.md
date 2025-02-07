@@ -4,6 +4,13 @@
 
 Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tsanfer/Tsanfer/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tsanfer/Tsanfer/output/github-stats-dark.png">
+<!--   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Tsanfer&screen_effect=false&theme=fuji&hide=avatar&dithering=true"> -->
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Tsanfer&screen_effect=false&theme=summer&hide=avatar&dithering=true">
+</picture>
+
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
