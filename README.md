@@ -8,7 +8,7 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tsanfer/Tsanfer/output/github-stats.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tsanfer/Tsanfer/output/github-stats-dark.png">
 <!--   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Tsanfer&screen_effect=false&theme=fuji&hide=avatar&dithering=true"> -->
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Tsanfer&screen_effect=false&theme=summer&hide=avatar&dithering=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Tsanfer&theme=summer&pixelate_avatar=false&background=gray>
 </picture>
 
 <!-- - 🔭 I’m currently working on ... -->
@@ -49,7 +49,7 @@ Hi, I'm Tsanfer, a carbon-based life now living in the Orion Arm.
 
 **🌱 Learning**
 
-<!-- ![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true&theme=tokyonight) -->
+<!--  ![Tsanfer's github stats](https://github-readme-stats.vercel.app/api?username=Tsanfer&show_icons=true&theme=tokyonight) -->
 
 ## 📫 Reach me
 
